@@ -1,7 +1,7 @@
 ## docker-rap2部署
 
 ```javascript
-mkidr -p /data/rap
+mkdir -p /data/rap
 ```
 
 ## 启动
